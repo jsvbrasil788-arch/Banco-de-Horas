@@ -1,0 +1,6 @@
+{
+  "name": "Meu Horário",
+  "description": "Sistema de banco de horas e controle de ponto para colaboradores com jornada de 44h semanais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
